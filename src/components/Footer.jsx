@@ -15,7 +15,7 @@ const Footer = () => {
           <img src="photos/emaillogo.png" alt="Email Icon" style={{ width: "50px", height: "50px" }} />
         </a>
         <a href="https://www.instagram.com/kaotiskkreativitet?igsh=cDZqMWQzOW1waWY1&utm_source=qr">
-          <img src='photos/instalogo.png' alt="instagram logo" style={{ width: "50px", height: "50px" }} />
+          <img src="photos/instalogo.png" alt="instagram logo" style={{ width: "50px", height: "50px" }} />
         </a>
         <a href="https://linkedin.com/theressundbergselin">
           <img src={process.env.PUBLIC_URL + 'photos/linkedinlogo.png'} alt="linkedin logo" style={{ width: "50px", height: "50px" }} />
@@ -24,7 +24,7 @@ const Footer = () => {
           <img src={process.env.PUBLIC_URL + 'photos/behancelogo.png'} alt="behance logo" style={{ width: "50px", height: "50px" }} />
         </a>
         <a href="https://github.com/tussakin">
-          <img src={process.env.PUBLIC_URL + 'photos/githubLogo.png'} alt="Github logo" style={{ width: "45px", height: "45px" }} />
+          <img src="photos/githubLogo.png" alt="Github logo" style={{ width: "45px", height: "45px" }} />
         </a>
       </div>
     </footer>
