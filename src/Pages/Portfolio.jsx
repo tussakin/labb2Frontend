@@ -18,7 +18,7 @@ class Portfolio extends Component {
               <a href="https://github.com/tussakin">
                 <img src="photos/HackergirlGit.png" alt="Drawing of girl with laptop" /></a>    
             </div>
-          </div>
+          </div> 
           <div className="pair">
             <p>The penguin bank<br />
               Bank system<br />

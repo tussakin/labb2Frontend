@@ -18,7 +18,7 @@ export function handleKeyPress(event) {
     closeGallery();
   }
 }
-
+ 
 document.addEventListener("keydown", handleKeyPress);
 
 document.addEventListener("DOMContentLoaded", function () {

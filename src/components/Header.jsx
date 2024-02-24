@@ -7,7 +7,7 @@ const Header = () => {
     <header>
       <div className="image-container-header">
         <img src={process.env.PUBLIC_URL + 'photos/linesLeft.png'} alt="lines" style={{ width: "350px", height: "100px" }} />
-        <Link to="/">
+        <Link to="/"> 
           <div className="overlay-text">Theres Sundberg Selin</div>
         </Link>
       </div>

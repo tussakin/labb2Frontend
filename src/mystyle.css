@@ -632,7 +632,7 @@ footer {
     display: flex;
     justify-content: center;
 }
-
+ 
 .image-container-footer{
     transform: rotate(180deg);
     max-width: 100%;

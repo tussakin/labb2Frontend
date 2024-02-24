@@ -19,7 +19,7 @@ const Resume = () => {
                       {edu.degree}<br></br> - {edu.university}<br></br> ({edu.graduation_year})
                     </li>
                 ))}
-              </ul>
+              </ul> 
               <h2>Work Experience</h2>
               <ul className="no-bullets">
                 {resumeData.work_experience.map((exp, index) => (

@@ -6,7 +6,7 @@ const Footer = () => {
     <footer>
       <div className="image-container-footer">
         <img src={process.env.PUBLIC_URL + 'photos/linesLeft.png'} alt="lines" style={{ width: "350px", height: "100px" }} />
-      </div>
+      </div> 
       <div className="h4footer">
         <h4>Find me online!</h4>
       </div>

@@ -18,7 +18,7 @@ function Contact() {
             <textarea id="message" name="message" defaultValue={""} /><br />
             <input type="submit" value="Send" /><br />
           </form>
-        </div>
+        </div> 
       </main>
     );
 }

@@ -12,7 +12,7 @@ function About() {
           <h3>
             It might sound like a bad thing, to be called chaotic, but I have turned it to my advantage.
           </h3>
-          <h5>
+          <h5> 
             I've always been a creative person, someone who's not afraid to get my hands dirty if it means a project gets done or I get to try something new. I've tried everything from painting to clay, foam-models, and 3d-modeling. Any new skill is a good skill and I am up for the challenge.
           </h5>
           <h5>
