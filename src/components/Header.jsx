@@ -12,7 +12,7 @@ const Header = () => {
         </Link>
       </div>
       <div className="dropdown">
-        <img src="./labb2Frontend/photos/menulines.png" alt="3 lines" style={{ width: "40px", height: "40px" }} />
+        <img src="photos/menulines.png" alt="3 lines" style={{ width: "40px", height: "40px" }} />
         <div className="dropdown-content">
           <nav className="menuhover">
             <ul>
