@@ -1,0 +1,65 @@
+
+{
+    "education": [
+      {
+        "degree": "Film and photography",
+        "university": "NTI Gymnasiet",
+        "graduation_year": "2015-2018"
+      },
+      {
+        "degree": "Master of Science in Software Engineering",
+        "university": "Härnösand folkhögskola",
+        "graduation_year": "2018-2019"
+      },
+      {
+        "degree": "Filmmaking",
+        "university": "Härnösand folkhögskola",
+        "graduation_year": "2018-2019"
+      },
+      {
+        "degree": "Bachelor in Industrial design",
+        "university": "Mid Sweden University",
+        "graduation_year": "2019-2022"
+      },
+      {
+        "degree": ".NET system developer",
+        "university": "Edugrade",
+        "graduation_year": "2023-2025"
+      }
+    ],
+
+ 
+    "work_experience": [
+      {
+        "position": "Custodian(cleaning)",
+        "company": "Tech Company",
+        "start_date": "2015",
+        "end_date": "2021",
+        "responsibilities": [
+          "DevCleaning the common areas of a pisciculture facility."
+        ]
+      },
+      {
+        "position": "Summerjob pisciculture facility",
+        "company": "Startup",
+        "start_date": "2015",
+        "end_date": "2019",
+        "responsibilities": [
+          "Daily work at a pisciculture facility."
+        ]
+      }
+    ],
+
+    "skills": [
+        {
+            "hard_skills": ["C#, HTML, CSS, CAD and technical drawing, D3 design, rendering, and animation",
+            "2D graphic design, sketching, prototyping, 3D printing, modelling and sculpting, painting, UI/UX",
+            "packaging and design, market analysis, photograhy. "
+        ],
+        
+        "soft_skills": "Design way of thinking, creative, innovative, problem solver"
+          
+    }
+    ]
+  }
+  
