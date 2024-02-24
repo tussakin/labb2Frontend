@@ -5,7 +5,7 @@ function About() {
     <div>
       <main>
         <div className="image-container">
-          <img src={process.env.PUBLIC_URL + 'photos/tess.jpeg'} alt="Self portrait of me, black and white" style={{ width: '100%', height: '100%' }} />
+          <img src= "photos/tess.jpeg" alt="Self portrait of me, black and white" style={{ width: '100%', height: '100%' }} />
         </div>
         <div className="presentation">
           <h1>Organized chaos!</h1>
